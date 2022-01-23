@@ -1,0 +1,29 @@
+24.01.2022 00:22 -- An error occurred while retrieving the page count. && Message: no such element: Unable to locate element: {"method":"css selector","selector":"a"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E1FDC3+2555331]
+	Ordinal0 [0x00DB77F1+2127857]
+	Ordinal0 [0x00CB2E08+1060360]
+	Ordinal0 [0x00CDE49E+1238174]
+	Ordinal0 [0x00CDE69B+1238683]
+	Ordinal0 [0x00CD4A01+1198593]
+	Ordinal0 [0x00CF7B54+1342292]
+	Ordinal0 [0x00CD4984+1198468]
+	Ordinal0 [0x00CF7C14+1342484]
+	Ordinal0 [0x00D075FA+1406458]
+	Ordinal0 [0x00CF7976+1341814]
+	Ordinal0 [0x00CD36B6+1193654]
+	Ordinal0 [0x00CD4546+1197382]
+	GetHandleVerifier [0x00FB9622+1619522]
+	GetHandleVerifier [0x0106882C+2336844]
+	GetHandleVerifier [0x00EB23E1+541697]
+	GetHandleVerifier [0x00EB1443+537699]
+	Ordinal0 [0x00DBD18E+2150798]
+	Ordinal0 [0x00DC1518+2168088]
+	Ordinal0 [0x00DC1660+2168416]
+	Ordinal0 [0x00DCB330+2208560]
+	BaseThreadInitThunk [0x75A76359+25]
+	RtlGetAppContainerNamedObjectPath [0x77A387D4+228]
+	RtlGetAppContainerNamedObjectPath [0x77A387A4+180]
+

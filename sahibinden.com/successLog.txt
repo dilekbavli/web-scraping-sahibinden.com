@@ -1,0 +1,17 @@
+24.01.2022 00:20 -- Otomobil category found.
+24.01.2022 00:20 -- 0 vehicles found.
+24.01.2022 00:20 -- Writing to file started.
+24.01.2022 00:20 -- Write to file completed.
+24.01.2022 00:20 -- All transactions completed successfully. The passing time : 6.6691203117370605
+24.01.2022 00:21 -- Otomobil category found.
+24.01.2022 00:21 -- Aston Martin subcategory found.
+24.01.2022 00:22 -- 51 vehicles found.
+24.01.2022 00:22 -- Writing to file started.
+24.01.2022 00:22 -- Write to file completed.
+24.01.2022 00:22 -- All transactions completed successfully. The passing time : 33.185763359069824
+24.01.2022 00:23 -- Otomobil category found.
+24.01.2022 00:23 -- Aion subcategory found.
+24.01.2022 00:23 -- 5 vehicles found.
+24.01.2022 00:23 -- Writing to file started.
+24.01.2022 00:23 -- Write to file completed.
+24.01.2022 00:23 -- All transactions completed successfully. The passing time : 12.566321611404419
